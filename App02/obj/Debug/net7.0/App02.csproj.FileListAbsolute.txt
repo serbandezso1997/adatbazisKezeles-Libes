@@ -1,0 +1,14 @@
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\bin\Debug\net7.0\App02.exe
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\bin\Debug\net7.0\App02.deps.json
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\bin\Debug\net7.0\App02.runtimeconfig.json
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\bin\Debug\net7.0\App02.dll
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\bin\Debug\net7.0\App02.pdb
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\App02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\App02.AssemblyInfoInputs.cache
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\App02.AssemblyInfo.cs
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\App02.csproj.CoreCompileInputs.cache
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\App02.dll
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\refint\App02.dll
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\App02.pdb
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\App02.genruntimeconfig.cache
+C:\Users\diak\dev_dezso\Adatbazis_kezeles\2024-02-05\App02\obj\Debug\net7.0\ref\App02.dll
